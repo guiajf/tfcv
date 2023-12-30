@@ -15,12 +15,9 @@ Utilizaremos um arquivo baixado do portal da
 Prefeitura Municipal de Juiz de Fora, com a captura do vídeo
 da câmara 16 (http://camerasjf.gctnet.com.br:8880/cameras/?
 cam=16), do cruzamento da Avenida Brasil com a Avenida
-Rio Branco, do dia 16/10/2023, com início às 10:49:32, com
-duração de 90s, em um container mkv, resolução 1920x1080,
-Codec H.265, 29,97 fps, 448 kbps.
-
-O arquivo de vídeo é fornecido em um container mkv, que
-é um envelope que incorpora múltiplos formatos
+Rio Branco, do dia 16/10/2023, com início às 10:49:32, e 
+duração de 90s, resolução 1920x1080, Codec H.265, 29,97 fps, 448 kbps,
+fornecido em um container mkv, que é um envelope que incorpora múltiplos formatos
 multimídia.
 
 *Pré-processamento*
