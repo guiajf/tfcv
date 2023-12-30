@@ -16,7 +16,7 @@ Prefeitura Municipal de Juiz de Fora, com a captura do vídeo
 da câmara 16 (http://camerasjf.gctnet.com.br:8880/cameras/?
 cam=16), do cruzamento da Avenida Brasil com a Avenida
 Rio Branco, do dia 16/10/2023, com início às 10:49:32, com
-duração de 60s, no formato mp4, resolução 1920x1080,
+duração de 90s, em um container mkv, resolução 1920x1080,
 Codec H.265, 29,97 fps, 448 kbps.
 
 O arquivo de vídeo é fornecido em um container mkv, que
@@ -27,29 +27,6 @@ multimídia.
 
 Convertemos o arquivo de vídeo disponível para o formato
 mp4, utilizando o seguinte script:
-
-# @title
-# Convertemos o arquivo de vídeo para o formato mp4
-start_time = "00:00:00"  # Substitua pelo tempo de início desejado
-end_time = "00:01:00"    # Substitua pelo tempo de término desejado
-
-output_file_path = re.search("^[\/].+\/", video_file_path)
-output_file_path_raw = output_file_path.group(0)
-delsplit = re.search("\/(?:.(?!\/))+$", video_file_path)
-filename = re.sub("^[\/]", "", delsplit.group(0))
-filename_raw = re.sub(".{4}$", "", filename)
-file_extension = re.search(".{3}$", filename)
-file_extension_raw = file_extension.group(0)
-
-os.environ['inputFile'] = video_file_path
-os.environ['outputPath'] = output_file_path_raw
-os.environ['startTime'] = start_time
-os.environ['endTime'] = end_time
-os.environ['fileName'] = filename_raw
-os.environ['fileExtension'] = file_extension_raw
-
-!ffmpeg -hide_banner -n -i "$inputFile" -c copy -strict -2 "$outputPath"/temp.mkv
-!ffmpeg -hide_banner -n -i "$outputPath"/temp.mkv -c copy -strict -2 "$outputPath"/"$fileName".mp4
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c4944fb6-710d-4955-b595-85d9da992d03)
 
