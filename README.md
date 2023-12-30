@@ -77,13 +77,18 @@ Adicionamos rótulos às caixas delimitadoras:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/362e0bf8-1eb9-449a-981f-40e25180bf0b)
 
-Inserimos na tela a contagem de veículos por tipo:
+Inserimos no frame a contagem de veículos por tipo:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/0fe0ca09-ce58-4c27-9ed9-3e6976d4ba88)
 
 Salvamos o arquivo de saída, liberamos os objetos de captura e gravação e fechamos todos os frames:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/4207157d-15e9-43cb-a3ab-0a83c1372927)
+
+Exibimos o arquivo de saída:
+
+![image](https://github.com/guiajf/tfcv/assets/152413615/04b71d90-7b5e-49c1-9086-f1be6ef27ae8)
+
 
 
 
