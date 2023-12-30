@@ -96,6 +96,11 @@ Exibimos o arquivo de saída:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/04b71d90-7b5e-49c1-9086-f1be6ef27ae8)
 
+______________________________________________________________________________________________________________________________________________________________
+
+Vídeo de saída disponível em (etiqueta contendo tipo de veículo e probabilidade): 
+https://youtu.be/c38tcOMGmqE
+
 
 
 
