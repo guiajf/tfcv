@@ -85,6 +85,11 @@ Salvamos o arquivo de saída, liberamos os objetos de captura e gravação e fec
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/4207157d-15e9-43cb-a3ab-0a83c1372927)
 
+Compactamos o arquivo de saída(ao compactá-lo, reduzimos o tamanho a um terço do original):
+
+![image](https://github.com/guiajf/tfcv/assets/152413615/abf757da-d3db-4947-a1d5-7d29c141fab7)
+
+
 Exibimos o arquivo de saída:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/04b71d90-7b5e-49c1-9086-f1be6ef27ae8)
