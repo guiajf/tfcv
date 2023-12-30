@@ -1,4 +1,5 @@
-![image](https://github.com/guiajf/tfcv/assets/152413615/37166913-a937-4ca5-98c3-03d4b5f72ee8)
+![image](https://github.com/guiajf/tfcv/assets/152413615/06e98180-90c5-47ae-9534-1576de0ce2ec)
+
 
 
 ### Projeto
