@@ -99,10 +99,12 @@ Exibimos o arquivo de saída:
 
 ______________________________________________________________________________________________________________________________________________________________
 
-Vídeo de saída disponível em (etiqueta contendo tipo de veículo e probabilidade): 
+Vídeo de saída disponível em (etiqueta contendo tipo de veículo e probabilidade):
+
 https://youtu.be/c38tcOMGmqE
 
 Vídeo de saída disponível em (etiqueta contendo tipo de veículo e id): 
+
 https://youtu.be/LV4EeOoC-sc
 
 
