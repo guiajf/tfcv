@@ -6,7 +6,7 @@ Neste projeto, será utilizado o modelo pré-treinado yolov8n.pt, para detecçã
 
 *Arquivo de entrada* 
 
-Para teste, utilizaremos um arquivo baixado do portal da
+Utilizaremos um arquivo baixado do portal da
 Prefeitura Municipal de Juiz de Fora, com a captura do vídeo
 da câmara 16 (http://camerasjf.gctnet.com.br:8880/cameras/?
 cam=16), do cruzamento da Avenida Brasil com a Avenida
