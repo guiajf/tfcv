@@ -74,7 +74,7 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 * cls: descreve a classe do objeto
 
-* conf: expressa o nível de confiança do modelo sobre o objeto
+* conf: expressa o nível de confiança da predição
 
 * id: denota o identificador único do objeto
 
