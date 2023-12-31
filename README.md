@@ -66,11 +66,19 @@ Realizamos a leitura dos frames:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/310603fa-ae84-461d-95c3-a34220e0f3b3)
 
-Ao processar a entrada, o modelo retorna um array de resultados para cada frame:
+Ao processar a entrada, o modelo retorna os objetos que foram detectados e suas propriedades:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f08e627d-d55e-4415-bd3c-8f14db9a700c)
 
 Mapeamos algumas propriedades da caixa delimitadora:
+
+* cls: denota a classe do objeto
+
+* conf: expressa o nível de confiança do modelo sobre o objeto
+
+* id: denota o índice da classe
+
+* xyxy: indica as coordenadas do caixa delimitadora
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f4a6fb9d-0abb-446a-8522-ca47e9cdf9d9)
 
