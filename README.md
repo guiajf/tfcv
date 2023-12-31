@@ -103,7 +103,7 @@ ________________________________________________________________________________
 
 https://youtu.be/c38tcOMGmqE
 
-Vídeo de saída com etiqueta contendo tipo de veículo e id: 
+2) Vídeo de saída com etiqueta contendo tipo de veículo e id: 
 
 https://youtu.be/kaJSz4WAKGE
 
