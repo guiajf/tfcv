@@ -76,7 +76,7 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 * conf: expressa o nível de confiança do modelo sobre o objeto
 
-* id: denota o índice da classe
+* id: denota o identificador único do objeto
 
 * xyxy: indica as coordenadas do caixa delimitadora
 
