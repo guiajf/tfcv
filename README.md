@@ -41,12 +41,13 @@ Uma variável recebe o arquivo de entrada:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/440d63ee-f7aa-4056-86b1-1d43e26e4e21)
 
-Criamos um modelo de rede neural
-(YOLOv8 é um grupo de modelos de rede neural, criados e treinados com a biblioteca Pytorch, exportados para arquivos com a extensão .pt. Há cinco tipos de modelos para cada tarefa (classificação, detecção, segmentação), e cinco modelos para cada tipo, de acordo com o tamanho do número de parâmetros de treinamento):
-
-![image](https://github.com/guiajf/tfcv/assets/152413615/be930a6c-6eb1-410e-a9c5-fe21b4359417)
+Criamos um modelo de rede neural:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c7b74bdf-3e79-49a1-88f5-785a4b10b271)
+
+YOLOv8 é um grupo de modelos de rede neural, criados e treinados com a biblioteca Pytorch, exportados para arquivos com a extensão .pt. Há cinco tipos de modelos para cada tarefa (classificação, detecção, segmentação), e cinco modelos para cada tipo, de acordo com o tamanho do número de parâmetros de treinamento.
+
+![image](https://github.com/guiajf/tfcv/assets/152413615/be930a6c-6eb1-410e-a9c5-fe21b4359417)
 
 Lemos o arquivo de entrada:
 
