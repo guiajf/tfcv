@@ -99,7 +99,7 @@ Exibimos o arquivo de saída:
 
 ______________________________________________________________________________________________________________________________________________________________
 
-1) Vídeo de saída com etiqueta contendo tipo de veículo e nível de confiança disponível em:
+1) Vídeo de saída com etiqueta contendo tipo de veículo e nível de confiança:
 
 https://youtu.be/c38tcOMGmqE
 
