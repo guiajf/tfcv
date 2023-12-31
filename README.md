@@ -99,11 +99,11 @@ Exibimos o arquivo de saída:
 
 ______________________________________________________________________________________________________________________________________________________________
 
-Vídeo de saída disponível em (etiqueta contendo tipo de veículo e probabilidade):
+1) Vídeo de saída com etiqueta contendo tipo de veículo e nível de confiança disponível em:
 
 https://youtu.be/c38tcOMGmqE
 
-Vídeo de saída disponível em (etiqueta contendo tipo de veículo e id): 
+Vídeo de saída com etiqueta contendo tipo de veículo e id: 
 
 https://youtu.be/kaJSz4WAKGE
 
