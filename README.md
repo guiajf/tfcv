@@ -72,7 +72,7 @@ Ao processar a entrada, o modelo retorna os objetos que foram detectados e suas 
 
 Mapeamos algumas propriedades da caixa delimitadora:
 
-* cls: denota a classe do objeto
+* cls: descreve a classe do objeto
 
 * conf: expressa o nível de confiança do modelo sobre o objeto
 
