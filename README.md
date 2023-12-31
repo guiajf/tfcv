@@ -66,7 +66,7 @@ Realizamos a leitura dos frames:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/310603fa-ae84-461d-95c3-a34220e0f3b3)
 
-Ao processar a entrada, o modelo retorna os objetos que foram detectados e suas propriedades:
+Ao processar a entrada, o modelo retorna os objetos que foram detectados e suas propriedades. Utilizamos o método "track" com o parâmetro "persist=True", para garantir que cada "id" seja único para o mesmo veículo:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f08e627d-d55e-4415-bd3c-8f14db9a700c)
 
