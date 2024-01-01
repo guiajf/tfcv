@@ -7,7 +7,7 @@
 ### Projeto
 
 Neste projeto, será utilizado o modelo pré-treinado yolov8n.pt, para detecção de objetos.
-O código foi desenvolvido em Jupyter Notebook, no Google Colab.
+O código foi desenvolvido em Python, no Google Colab.
 
 *Arquivo de entrada* 
 
