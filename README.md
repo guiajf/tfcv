@@ -83,11 +83,11 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f4a6fb9d-0abb-446a-8522-ca47e9cdf9d9)
 
-Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de confiança (ou id) do objeto detectado:
+Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de confiança (ou id) do objeto detectado, desde que atendidas duas condições simultâneas (que a classe predita esteja contida no dicionário *class_names* e que a probabilidade seja superior a 30%):
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/362e0bf8-1eb9-449a-981f-40e25180bf0b)
 
-Inserimos no frame a contagem de veículos por tipo:
+Inserimos no frame a contagem de veículos por tipo (o texto deve ser posicionado à esquerda no eixo horizontal, centralizado verticalmente):
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/0fe0ca09-ce58-4c27-9ed9-3e6976d4ba88)
 
