@@ -83,7 +83,7 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f4a6fb9d-0abb-446a-8522-ca47e9cdf9d9)
 
-Adicionamos rótulos às caixas delimitadoras:
+Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de confiança (ou id) do objeto detectado:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/362e0bf8-1eb9-449a-981f-40e25180bf0b)
 
