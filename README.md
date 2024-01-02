@@ -87,7 +87,7 @@ Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de 
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/362e0bf8-1eb9-449a-981f-40e25180bf0b)
 
-Inserimos no frame a contagem de veículos por tipo (o texto deve ser posicionado à esquerda no eixo horizontal e centralizado verticalmente):
+Inserimos no frame a contagem de veículos por tipo (a legenda deve ser posicionada à esquerda e centralizada verticalmente):
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/0fe0ca09-ce58-4c27-9ed9-3e6976d4ba88)
 
