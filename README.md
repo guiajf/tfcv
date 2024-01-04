@@ -51,7 +51,7 @@ Lemos o arquivo de entrada:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/23d3f61f-e3e7-49e7-900f-1852fd734d63)
 
-Utilizamos a classe VideoWriter do opencv para criar o objeto de saída, no formato mp4. Utilizada para gravar arquivos de vídeo, recebe como parâmetros o nome do arquivo de saída, o codec utilizado para compressão do arquivo, definido por um código de 4 caracteres(fourcc), a taxa de frames por segundo e o tamanho do vídeo:
+Utilizamos a classe VideoWriter do opencv para criar o objeto de saída, no formato mp4. Utilizada para gravar arquivos de vídeo, recebe como parâmetros o nome do arquivo de saída, o codec utilizado para compressão, definido por um código de 4 caracteres(fourcc), a taxa de frames por segundo e o tamanho do vídeo:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c051bd45-83f6-4e6b-be3a-05127dbe8c6e)
 
