@@ -42,7 +42,7 @@ Criamos um modelo de rede neural:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c7b74bdf-3e79-49a1-88f5-785a4b10b271)
 
-YOLOv8 é um grupo de modelos de rede neural, criados e treinados com a biblioteca Pytorch, exportados para arquivos com a extensão *.pt*. Há cinco tipos de modelos para cada tarefa (classificação, detecção, segmentação), e cinco modelos para cada tipo, de acordo com o tamanho do número de parâmetros de treinamento.
+YOLOv8 é um grupo de modelos de rede neural, criados e treinados com a biblioteca Pytorch, exportados para arquivos com a extensão *.pt*. Há cinco tipos de modelos para cada tarefa (*classificação*, *detecção*, *segmentação*), e cinco modelos para cada tipo, de acordo com o tamanho do número de parâmetros de treinamento.
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/be930a6c-6eb1-410e-a9c5-fe21b4359417)
 
@@ -50,7 +50,7 @@ Lemos o arquivo de entrada:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/23d3f61f-e3e7-49e7-900f-1852fd734d63)
 
-Utilizamos a classe VideoWriter do opencv para criar o objeto de saída, no formato mp4. Utilizada para gravar arquivos de vídeo, recebe como parâmetros o nome do arquivo de saída, o codec utilizado para compressão, definido por um código de 4 caracteres(fourcc), a taxa de frames por segundo e o tamanho do vídeo:
+Utilizamos a classe *VideoWriter* do **opencv** para criar o objeto de saída, no formato *mp4*. Utilizada para gravar arquivos de vídeo, recebe como parâmetros o nome do arquivo de saída, o codec utilizado para compressão, definido por um código de 4 caracteres(*fourcc*), a taxa de frames por segundo e o tamanho do vídeo:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c051bd45-83f6-4e6b-be3a-05127dbe8c6e)
 
@@ -82,7 +82,7 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f4a6fb9d-0abb-446a-8522-ca47e9cdf9d9)
 
-Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de confiança (ou id) do objeto detectado, desde que duas condições sejam atendidas simultaneamente (que a classe predita esteja contida no dicionário *class_names* e que a probabilidade seja superior a 30%):
+Adicionamos rótulos às caixas delimitadoras, para exibir a classe e nível de confiança (ou id) do objeto detectado, desde que duas condições sejam atendidas simultaneamente (que a classe predita esteja contida no dicionário *class_names* e que a probabilidade seja superior a 0.3):
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/362e0bf8-1eb9-449a-981f-40e25180bf0b)
 
