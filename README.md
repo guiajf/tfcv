@@ -20,8 +20,7 @@ fornecido em um container mkv, que é um envelope que incorpora múltiplos forma
 
 *Pré-processamento*
 
-Convertemos o arquivo de vídeo disponível para o formato
-mp4, utilizando o seguinte script:
+Convertemos o arquivo de vídeo para o formato mp4, utilizando o seguinte script:
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/c4944fb6-710d-4955-b595-85d9da992d03)
 
@@ -79,7 +78,7 @@ Mapeamos algumas propriedades da caixa delimitadora:
 
 * id: denota o identificador único do objeto
 
-* xyxy: indica as coordenadas do caixa delimitadora
+* xyxy: indica as coordenadas da caixa delimitadora
 
 ![image](https://github.com/guiajf/tfcv/assets/152413615/f4a6fb9d-0abb-446a-8522-ca47e9cdf9d9)
 
